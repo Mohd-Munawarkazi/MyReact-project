@@ -1,2 +1,3 @@
 # MyReact-project
-My
+My Netflix
+
